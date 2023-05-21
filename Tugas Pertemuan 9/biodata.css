@@ -1,0 +1,23 @@
+table,tr,td{
+    background-color: LightGoldenRodYellow ;
+    font-family: Verdana;
+    color: black;
+    border: 1px solid black;
+    padding: 5px;
+    border-collapse: collapse;
+}
+.h{
+    border: 7px groove yellow;
+    padding: 14px;
+}
+.posisi{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    left: 0;
+    right: 0;
+    top: 100px;
+    bottom: 0;
+}
